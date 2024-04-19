@@ -60,13 +60,11 @@ button {
     font-size: 24px;
     line-height: 36px;
     cursor: pointer;
-    
 }
 
 button:hover {
     opacity: 0.8;
     transition: all .2s ease-in-out;
-    
 }
 
 button:active {
@@ -87,7 +85,6 @@ a {
 a:hover {
     opacity: 0.8;
     transition: all .2s ease-in-out;
-    
 }
 
 a:active {
@@ -148,7 +145,6 @@ footer {
     }
  }
   
-
 @media screen and (max-width: 550px) {
     h1 {
         font-size: 3rem;
