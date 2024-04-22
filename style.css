@@ -108,6 +108,19 @@ header {
 }
 
 footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+    margin: auto auto;
+    padding: 10px 5px;
+}
+
+/* footer {
     display: flex;
     justify-content: center;
     gap: 0.5rem     ;
@@ -116,7 +129,7 @@ footer {
     bottom: 5px;
     font-size: 18px;
     padding: 10px;
-}
+} */
 
  @media screen and (max-width: 1200px){
     .wrapper {
